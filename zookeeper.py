@@ -1,8 +1,9 @@
-from kafka.py import myBroker
+import pika
 
-broker1 = myBroker
-broker2 = myBroker
-broker3 = myBroker
 
-def leaderSelection():
-    print('Hello')
+Connection = pika.BlockingConnection(pika.ConnectionParameters('localhost'))
+channel = Connection.channel()
+topicList = []
+#DECLARING QUEUE
+channel.queue_declare(queue='hello')
+print("myBroker Initialised")
