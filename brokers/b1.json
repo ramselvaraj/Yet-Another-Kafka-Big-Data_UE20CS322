@@ -1,5 +1,5 @@
 {
-    "no_of_producers": 4,
+    "no_of_producer": 0,
     "topics_Dict": {
         "Batman": [
             "p1.txt",
@@ -11,7 +11,8 @@
         ]
     },
     "log": [
-        "2022-11-30 09:58:19.944488 - Added New Topic [Batman]",
-        "2022-11-30 09:58:19.953377 - Added New Topic [SciFi]"
-    ]
+        "2022-11-30 12:19:48.677794 - Added New Topic [Batman]",
+        "2022-11-30 12:19:48.677794 - Added New Topic [SciFi]"
+    ],
+    "no_of_producers": 4
 }
