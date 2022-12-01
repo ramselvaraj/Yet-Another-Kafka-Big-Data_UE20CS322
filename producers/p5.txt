@@ -1,0 +1,2 @@
+test
+STEP1- Install and import DependenciesSTEP2- Test Environmenti) Adjust the position of the chrome dino game and the "Game over" Screen by setting self.game_location and self.done_location respectivelyii)Run plt.imshow(cv2.cvtColor(obs[0], cv2.COLOR_GRAY2BGR)) with the chrome dino game open so it can capture the screenshot of the gameiii)Once the game is done run plt.imshow(done_cap) to check if it captures the "GAME OVER" and converts the image to textSTEP3- Load the modeli) import the stable_baselines3 librariesii) load Model "best_model_88000"STEP4- Test out Model

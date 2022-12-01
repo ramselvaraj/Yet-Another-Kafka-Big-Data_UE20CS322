@@ -1,0 +1,13 @@
+
+2022-12-01 06:08:49.511845 - [b2.json] is now Lead Broker 
+2022-12-01 06:08:51.518790 - [b1.json] is now online and back as Lead Broker 
+2022-12-01 06:12:40.095508 - [b2.json] is now Lead Broker 
+2022-12-01 06:12:42.102225 - [b1.json] is now online and back as Lead Broker 
+2022-12-01 12:39:30.174556 - [b2.json] is now Lead Broker 
+2022-12-01 12:39:32.183471 - [b1.json] is now online and back as Lead Broker 
+2022-12-01 12:39:56.276092 - [b2.json] is now Lead Broker 
+2022-12-01 12:39:58.293510 - [b1.json] is now online and back as Lead Broker 
+2022-12-01 14:15:06.033906 - [b2.json] is now Lead Broker 
+2022-12-01 14:15:08.044011 - [b1.json] is now online and back as Lead Broker 
+2022-12-01 14:59:28.086641 - [b2.json] is now Lead Broker 
+2022-12-01 14:59:30.099120 - [b1.json] is now online and back as Lead Broker 

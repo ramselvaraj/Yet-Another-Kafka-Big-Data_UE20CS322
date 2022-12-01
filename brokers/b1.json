@@ -1,18 +1,171 @@
 {
-    "no_of_producer": 0,
     "topics_Dict": {
         "Batman": [
             "p1.txt",
-            "p2.txt"
+            "p2.txt",
+            "p10.txt"
         ],
         "SciFi": [
             "p3.txt",
             "p4.txt"
-        ]
+        ],
+        "test": [
+            "p5.txt",
+            "p6.txt"
+        ],
+        "ben10": [
+            "p7.txt"
+        ],
+        "starwars": [],
+        "newTopic11": [
+            "p12.txt"
+        ],
+        "newTopic10": [
+            "p8.txt",
+            "p11.txt"
+        ],
+        "test3": [
+            "p9.txt"
+        ],
+        "test4": [],
+        "test7": [],
+        "test8": [],
+        "help1": [],
+        "newTopic13": [
+            "p13.txt"
+        ],
+        "daft": [],
+        "newtopic12": [],
+        "newTopic15": [],
+        "newTopic16": []
     },
     "log": [
         "2022-11-30 12:19:48.677794 - Added New Topic [Batman]",
-        "2022-11-30 12:19:48.677794 - Added New Topic [SciFi]"
+        "2022-11-30 12:19:48.677794 - Added New Topic [SciFi]",
+        "2022-11-30 16:18:41.627994 - Added New Topic [test]",
+        "2022-11-30 16:20:14.321370 - Added New Topic []",
+        "2022-11-30 16:22:54.963220 - Added New Topic [Batman]",
+        "2022-11-30 16:22:54.963220 - Added New Topic [SciFi]",
+        "2022-11-30 16:22:54.963220 - Added New Topic [test]",
+        "2022-11-30 16:25:35.970921 - Added New Topic []",
+        "2022-11-30 16:46:18.267334 - Added New Topic [Batman]",
+        "2022-11-30 16:46:18.272213 - Added New Topic [SciFi]",
+        "2022-11-30 16:46:18.275684 - Added New Topic [test]",
+        "2022-11-30 16:57:21.029436 - Added New Topic [ben10]",
+        "2022-11-30 17:05:19.952007 - Added New Topic [starwars]",
+        "2022-11-30 17:06:38.032423 - Added New Topic [newtopicAna]",
+        "2022-11-30 22:54:50.606957 - Added New Topic [newTopic10]",
+        "2022-11-30 23:41:10.006926 - Added New Topic [newTopic10]",
+        "2022-12-01 02:13:03.660708 - Added New Producer [p9.txt]",
+        "hellp from if",
+        "2022-12-01 02:14:35.717967 - Added New Producer [p9.txt]",
+        "hellp from if",
+        "2022-12-01 02:15:01.704855 - Added New Producer [p9.txt]",
+        "hellp from if",
+        "2022-12-01 02:17:40.006440 - Added New Producer [p9.txt]",
+        "help from if",
+        "2022-12b1-01 02:19:38.553087 - Added New Producer [p9.txt]",
+        "2022-12-01 02:20:43.072677 - Added New Producer [p9.txt]",
+        "2022-12-01 02:22:12.749227 - Added New Producer [p9.txt]",
+        "2022-12-01 02:49:16.636425 - Added New Producer [p9.txt]",
+        "2022-12-01 02:50:05.793461 - Added New Producer [p9.txt]",
+        "2022-12-01 02:50:38.777585 - Added New Producer [p9.txt]",
+        "2022-12-01 03:21:29.806093 - Added New Topic [test2]",
+        "2022-12-01 03:24:13.727213 - Added New Topic [test3]",
+        "2022-12-01 03:27:11.442379 - Added New Topic [test3]",
+        "2022-12-01 03:27:31.131589 - Added New Topic [test4]",
+        "2022-12-01 03:36:08.766455 - Added New Topic [help1]",
+        "2022-12-01 03:36:08.854234 - Ram Subscribed to [help1]",
+        "2022-12-01 04:18:24.406862 - Added New Producer [p10.txt]",
+        "2022-12-01 05:03:28.956942 - Added New Producer [p11.txt]",
+        "2022-12-01 05:03:36.878457 - Added New Topic [newTopic11]",
+        "2022-12-01 05:03:44.019461 - Added New Topic [newTopic13]",
+        "2022-12-01 05:41:26.793666 - Registered New Consumer [Ram]",
+        "2022-12-01 05:41:58.189177 - Registered New Consumer [Ram]",
+        "2022-12-01 05:42:01.490844 - [Ram] viewed new messages from topics- ,Batman,help1",
+        "2022-12-01 05:42:01.491847 - [Ram] viewed new messages from topics- ,Batman,help1",
+        "2022-12-01 05:43:15.473280 - Registered New Consumer [Ram]",
+        "2022-12-01 05:57:05.760280 - [b2.json] is now Lead Broker ",
+        "2022-12-01 05:57:05.760280 - [b1.json] now offline ",
+        "2022-12-01 12:47:12.401353 - Registered New Consumer [Ram]",
+        "2022-12-01 12:50:48.420501 - Registered New Consumer [show logs]",
+        "2022-12-01 12:50:50.904150 - De-Registered Consumer [show logs]",
+        "2022-12-01 12:50:56.501367 - Registered New Consumer [Ram]",
+        "2022-12-01 12:51:20.700807 - Registered New Consumer [Ram]",
+        "2022-12-01 12:51:30.980275 - Registered New Consumer [Ram]",
+        "2022-12-01 12:51:33.327634 - [Ram] viewed broker [b1.json] Log- ",
+        "2022-12-01 12:51:54.333656 - [Ram] viewed broker [b1.json] Log- ",
+        "2022-12-01 12:52:52.150646 - [] viewed zookeeper Log- ",
+        "2022-12-01 12:57:06.713375 - Registered New Consumer [newUser10]",
+        "2022-12-01 12:57:42.309382 - Added New Topic [daft]",
+        "2022-12-01 12:57:42.317134 - newUser10 Subscribed to [daft]",
+        "2022-12-01 12:57:42.317134 - Registered New Consumer [newUser10]",
+        "2022-12-01 14:23:00.028122 - Added New Topic [newtopic12]",
+        "2022-12-01 14:23:27.150858 - De Registered Producer [p12.txt]",
+        "2022-12-01 15:01:34.615085 - Added New Topic [newTopic15]",
+        "2022-12-01 15:02:07.069461 - De Registered Producer [p12.txt]",
+        "2022-12-01 15:03:49.287537 - Registered New Consumer [newUser11]",
+        "2022-12-01 15:04:45.812747 - [newUser11] viewed NEW messages from topics- |Batman|newTopic16",
+        "2022-12-01 15:04:45.815085 - [newUser11] viewed NEW messages from topics- |Batman|newTopic16",
+        "2022-12-01 15:10:16.183677 - Registered New Consumer [Ram]",
+        "2022-12-01 15:10:52.806935 - Registered New Consumer [newUser11]"
     ],
-    "no_of_producers": 4
+    "consumers": {
+        "Ram": [
+            [
+                "Batman",
+                "2022-12-01 03:03:44.082417"
+            ],
+            [
+                "help1",
+                "2022-12-01 03:36:08.854234"
+            ]
+        ],
+        "Manas": [
+            [
+                "ben10",
+                "2022-12-01 03:03:44.083415"
+            ]
+        ],
+        "abc": [
+            [
+                "Batman",
+                "2022-12-01 03:03:44.082417"
+            ]
+        ],
+        "abcde": [
+            [
+                "test7",
+                "2022-12-01 03:31:08.867355"
+            ],
+            [
+                "test8",
+                "2022-12-01 03:31:08.867355"
+            ]
+        ],
+        "newUser10": [
+            [
+                "ben10",
+                "2022-12-01 12:57:06.713375"
+            ],
+            [
+                "Batman",
+                "2022-12-01 12:57:06.713375"
+            ],
+            [
+                "daft",
+                "2022-12-01 12:57:42.309382"
+            ]
+        ],
+        "newUser11": [
+            [
+                "Batman",
+                "2022-12-01 15:03:49.271959"
+            ],
+            [
+                "newTopic16",
+                "2022-12-01 15:03:49.284458"
+            ]
+        ]
+    }
 }
